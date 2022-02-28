@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "一种MIS页面生成工具",
   "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "jest",
     "coverage": "jest --coverage",
